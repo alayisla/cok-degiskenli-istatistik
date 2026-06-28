@@ -1,0 +1,3 @@
+*.sps linguist-language=SPSS
+*.R linguist-language=R
+*.sas linguist-language=SAS
